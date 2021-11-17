@@ -2,7 +2,7 @@
 
 #### Yep, I code
 
-#### I use replit, and most of my projects are on there: https://replit.com/@Subsrcibe2
+#### I use replit, and most of my projects are on there: https://replit.com/@Subscribe2
 
 
 #### If you like my projects let me know.
