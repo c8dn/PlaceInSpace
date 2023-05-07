@@ -1,5 +1,4 @@
-
-<iframe src="https://www.example.com" width="100%" height="100%"></iframe>
+View in [Github Pages](https://shlok.is-a.dev)
 
 <!---
 PlaceInSpace/PlaceInSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
