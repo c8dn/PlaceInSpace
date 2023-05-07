@@ -1,5 +1,7 @@
+Here's a preview of my personal site:
+Or you can visit the [live site](https://www.shlok.is-a.dev)
+
 ![Screenshot of shlok.is-a.dev](https://api.pikwy.com/web/64571436feaf892f564a3942.png)
-Or visit the [live site](https://www.shlok.is-a.dev)
 
 
 <!---
