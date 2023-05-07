@@ -1,4 +1,6 @@
-View in [Github Pages](https://shlok.is-a.dev)
+![Screenshot of shlok.is-a.dev](https://api.pikwy.com/web/64571436feaf892f564a3942.png)
+Or visit the [live site](https://www.shlok.is-a.dev)
+
 
 <!---
 PlaceInSpace/PlaceInSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
